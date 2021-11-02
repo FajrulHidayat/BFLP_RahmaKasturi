@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "317593455684",
+    "firebase_url": "https://bflp-rahmakasturi-default-rtdb.firebaseio.com",
+    "project_id": "bflp-rahmakasturi",
+    "storage_bucket": "bflp-rahmakasturi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317593455684:android:ce293e101035aa12cb8011",
+        "android_client_info": {
+          "package_name": "com.example.bflp_rahmakasturi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317593455684-o1tuqca5ov1v67od00mfekt4unugp3r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpy0hI_ZeaHtNCmFaCb5on3UYMa59ojEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317593455684-o1tuqca5ov1v67od00mfekt4unugp3r7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
